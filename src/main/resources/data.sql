@@ -1,0 +1,3 @@
+insert into employee values (101, 'Johannesburg', 'South Africa', 'PO BOX 1021', 'Unit 137 Sardinha Park', '1724', '0833540848','phogolekk@gmail.com', '01150897655','@linkedin', 'kamogelo','phogole');
+insert into employee values (102, 'Roodepoort', 'South Africa', 'PO BOX 10222', 'house 565 joe slovo', '1789', '087655555','phals@gmail.com', '01150897655','@facebook', 'John','pienaar');
+insert into employee values (103, 'Pretoria', 'South Africa', '', 'house 888 Moreleta park', '2001', '011690011','john@home.com', '','@facebook', 'Angella','Paulse');
